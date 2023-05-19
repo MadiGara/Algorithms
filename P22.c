@@ -1,7 +1,6 @@
 /*
-* Madison Gara (0973333)
+* Madison Gara
 * March 13th, 2023
-* CIS*3490 A3
 */
 
 #define _POSIX_C_SOURCE 199309L
